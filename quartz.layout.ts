@@ -1,3 +1,4 @@
+import { title } from "node:process"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
@@ -9,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "RSS": "https://metacogs.pages.dev/index.xml",
+      github:"https://github.com/KageKaz/metacogs"
     },
   }),
 }
@@ -25,11 +27,21 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {title: "pages",
+       folderClickBehavior: "link",
+       folderDefaultState: "open",
+      }
+    )),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer(
+      {title: "pages",
+       folderClickBehavior: "link",
+       folderDefaultState: "open",
+      }
+    )),
     Component.Backlinks(),
   ],
 }
@@ -41,9 +53,19 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {title: "pages",
+       folderClickBehavior: "link",
+       folderDefaultState: "open",
+      }
+    )),
   ],
   right: [
-    Component.MobileOnly(Component.Explorer()),
+    Component.MobileOnly(Component.Explorer(
+      {title: "pages",
+       folderClickBehavior: "link",
+       folderDefaultState: "open",
+      }
+    )),
   ],
 }

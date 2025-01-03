@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome
+date: 2025-01-03
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hi, I'm Daniel. This is my personal blog. If you're new here, maybe check out [[meta-metacogs|my first post]] for an explanation of this site. 
