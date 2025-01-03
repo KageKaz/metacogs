@@ -30,7 +30,7 @@ button#explorer {
   cursor: pointer;
   padding: 0;
   color: var(--dark);
-  display: flex;
+  display: none;
   align-items: center;
 
   & h2 {
