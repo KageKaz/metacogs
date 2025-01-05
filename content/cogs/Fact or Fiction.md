@@ -1,6 +1,6 @@
 ---
 date: 2025-01-04
-draft: true
+draft: false
 tags:
   - books
 ---
@@ -14,7 +14,7 @@ So what is it that I can't stand about it?
 
 It's funny, the Wikipedia article classifies the genre of the books as "Young adult novel" and "realistic fiction." And it's right. The book depicts, is marketed toward, and is supposed to resonate with young people.
 
-But I don't know, what I read might've as well have been labeled fantasy .
+But I don't know, what I read might as well've been labeled fantasy .
 
 Because real teenagers don't talk like that. Because we aren't as funny as Hazel and Augustus. Because this one is constantly realizing that he is not as profound as he wished he was, as they are. Because Green doesn't write teenagers, he writes what what we wished we were. 
 
@@ -24,7 +24,7 @@ If you haven't read the book, both Hazel and Augustus have severe, debilitating 
 
 And is there any triumphing-in-spite-of to be had when there is no cancer? 
 
-The book is supposed to be written for the cancer patient. And I can't say this for sure (because I am not one), but I'm afraid it falls flat in this regard. Because Hazel's life is too perfectly imperfect. Because in real life cancer is a devil that needs to be eradicated and in the literary world cancer is a necessity to make the story captivating. 
+The book is supposed to be written for the cancer patient. And I can't say this for sure (because I am not one), but I'm afraid it fails in this regard. Because Hazel's life is too perfectly imperfect. Because in real life cancer is a devil that needs to be eradicated and in *The Fault in Our Stars* cancer is a necessity to make the story captivating. 
 
 ---
 Well anyway, all this reading and thinking occurred months ago. More recently though, I found myself struggling to focus while reading a history of philosophy book, so I decided to pickup a fiction book for some easy reading. 
@@ -40,16 +40,16 @@ In *[The Pervert's Guide to Ideology](https://en.wikipedia.org/wiki/The_Pervert%
 > [!warning]
 > ***Looking for Alaska* spoilers ahead**
 
-Something strikingly similar happens in *Looking for Alaska*. Basically, a love rectangle/pentagon/I-don't-even-know forms in a friend group, scandal ensues, but then before anything is found out one of the characters dies. The death of that character is central (literally) to the book. Without it, none of the themes noted could've been expressed. And yet, it's easy to imagine what probably would've happened in real life. There would be no dead. The characters would just be slowly driven apart until their relationships were. That's the real tragedy.
+Something strikingly similar happens in *Looking for Alaska*. Basically, a love rectangle/pentagon/I-don't-even-know forms in a friend group, scandal ensues, but then before anything is found out one of the characters dies. The death of that character is central (quite literally) to the book. Without it, none of the themes noted could've been expressed. And yet, it's easy to imagine what probably would've happened in real life. No one would die. The characters would just be slowly driven apart until their relationships were dead. That's the real tragedy.
 
-I mostly read non-fiction, so I guess I've never realized that fiction is called, well, **fiction**. I mean like imagine watching a news report, and the headline is "[Fact or Fiction: Chicken wings can be called boneless even if they have bones?](https://www.10news.com/news/fact-or-fiction/fact-or-fiction-chicken-wings-can-be-called-boneless-even-if-they-have-bones)" Obviously, "fact" is what you want, and "fiction" is bad, right? So doesn't that invalidate like all of literature?  In other words,
+I mostly read non-fiction, so I guess I've never realized that fiction is called, well, **fiction**. I mean like imagine watching a news report, and the headline is "[Fact or Fiction: Chicken wings can be called boneless even if they have bones?](https://www.10news.com/news/fact-or-fiction/fact-or-fiction-chicken-wings-can-be-called-boneless-even-if-they-have-bones)" Obviously, "fact" is what you want, and "fiction" is bad, right? So doesn't that invalidate like—all of literature?  In other words,
 
 > [!question]
 > **Does fiction twist reality or transcend it?**
 
-There's something Platonic going on here. Because clearly the works discussed are sensationalized and don't depict the way things tend to happen. But it's also because of this that they are able to express deeper, more universal themes than if they were simply works of history. 
+There's something Platonic going on here. Because clearly the works discussed are sensationalized and don't depict the way things happen or tend to happen. But it's also because of this that they are able to express deeper, more universal themes than if they were simply works of history. 
 
-If there's one thing that these books share in common, it's that they are based in history. Obviously, *Titanic* is based on the real ship. *The Fault in Our Stars* is inspired by Green's time in a children's hospital  dedicated to Esther Earl, who died of thyroid cancer (which Hazel has). *Looking for Alaska* is based on Green's experiences in boarding school. 
+Because the funny thing is, if there's one thing that these books share in common, it's that they are somewhat based in history. Obviously, *Titanic* is based on the real ship. *The Fault in Our Stars* is inspired by Green's time in a children's hospital and dedicated to Esther Earl, who died of thyroid cancer (which Hazel has). *Looking for Alaska* is based on Green's experiences in boarding school. 
 
 But again, if John Green just wrote *Life in Boarding School*, clearly, something would've been lost.
 
