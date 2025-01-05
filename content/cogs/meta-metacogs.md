@@ -18,7 +18,7 @@ I guess what scares me about blogging is that idea of a "final product". I mean 
 (As of the time of writing this, at least for the time being, a grand total of at best two people will be reading this, which is probably the reason that I have the balls to publish this.)
 
 I'll spare you from further rambling. The reason I am writing this is because I figured if fear could prevent me from writing, then maybe I could write about fear. I'm writing because I figured if I didn't know what to write, then maybe I could write about what it was like to not know.  I'm writing because I figured that it's even better to be real than to be right.
-<br>
+
 Cognitive psychologists call this kind of reflection metacognition. While the subject matter for posts could vary, they would share the common thread of introspection. I figured my blog would be a collection of these metacognitions, metacogs. 
 
 
