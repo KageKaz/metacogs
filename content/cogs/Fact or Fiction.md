@@ -35,21 +35,21 @@ Getting through the book this time was probably a function of (1) me looking for
 
 If you analyze the nuts and bolts of the book, there's not really much special going on. And yet, it struck me hard emotionally. Philosophically too. Because despite working with a characters that are a little too perfect and a plot that's a little too perfect, Green grapples, grapples well with weighty themes: how we fail to be present, how we fail to see the whole of the people around us, and how that causes them to suffer and die. 
 
-In *[The Pervert's Guide to Ideology](https://en.wikipedia.org/wiki/The_Pervert%27s_Guide_to_Ideology)*, Slavoj Žižek [observes](https://www.youtube.com/watch?v=9DocwBZyESU) that the real tragedy in the *[Titanic film](<https://en.wikipedia.org/wiki/Titanic_(1997_film)>)* would've been if the ship never sank. If it never sank, they would've spent a couple nights in New York together, and then what? Fire always burns out eventually. But because the ship sinks, their love is immortalized.
+In *[The Pervert's Guide to Ideology](https://en.wikipedia.org/wiki/The_Pervert%27s_Guide_to_Ideology)*, Slavoj Žižek [observes](https://www.youtube.com/watch?v=9DocwBZyESU) that the real tragedy in the *[Titanic film](<https://en.wikipedia.org/wiki/Titanic_(1997_film)>)* would've been if the ship never sank. If it never sank, Jack and Rose would've spent a couple nights in New York together, and then what? Fire always burns out eventually. But because the ship sinks, their love is immortalized.
 
 > [!warning]
 > ***Looking for Alaska* spoilers ahead**
 
 Something strikingly similar happens in *Looking for Alaska*. Basically, a love rectangle/pentagon/I-don't-even-know forms in a friend group, scandal ensues, but then before anything is found out one of the characters dies. The death of that character is central (quite literally) to the book. Without it, none of the themes noted could've been expressed. And yet, it's easy to imagine what probably would've happened in real life. No one would die. The characters would just be slowly driven apart until their relationships were dead. That's the real tragedy.
 
-I mostly read non-fiction, so I guess I've never realized that fiction is called, well, **fiction**. I mean like imagine watching a news report, and the headline is "[Fact or Fiction: Chicken wings can be called boneless even if they have bones?](https://www.10news.com/news/fact-or-fiction/fact-or-fiction-chicken-wings-can-be-called-boneless-even-if-they-have-bones)" Obviously, "fact" is what you want, and "fiction" is bad, right? So doesn't that invalidate like—all of literature?  In other words,
+I mostly read non-fiction, so I guess I've never realized that fiction is called, well, **fiction**. I mean like imagine watching a news report, and the headline is "[Fact or Fiction: Chicken wings can be called boneless even if they have bones?](https://www.10news.com/news/fact-or-fiction/fact-or-fiction-chicken-wings-can-be-called-boneless-even-if-they-have-bones)" Obviously, "fact" is what you want, and "fiction" is bad, right? So doesn't that invalidate like all of literature?  In other words,
 
 > [!question]
 > **Does fiction twist reality or transcend it?**
 
 There's something Platonic going on here. Because clearly the works discussed are sensationalized and don't depict the way things happen or tend to happen. But it's also because of this that they are able to express deeper, more universal themes than if they were simply works of history. 
 
-Because the funny thing is, if there's one thing that these books share in common, it's that they are somewhat based in history. Obviously, *Titanic* is based on the real ship. *The Fault in Our Stars* is inspired by Green's time in a children's hospital and dedicated to Esther Earl, who died of thyroid cancer (which Hazel has). *Looking for Alaska* is based on Green's experiences in boarding school. 
+Because the funny thing is, if there's one thing that these books share in common, it's that they are somewhat based in history. Obviously, *Titanic* is based on the real ship. *The Fault in Our Stars* is inspired by Green's time in a children's hospital and dedicated to Esther Earl, who died of thyroid cancer (which Hazel has). *Looking for Alaska* is based on Green's experiences growing up in boarding school. 
 
 But again, if John Green just wrote *Life in Boarding School*, clearly, something would've been lost.
 

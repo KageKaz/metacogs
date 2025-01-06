@@ -32,6 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
       {
         title: "recent",
         linkToMore: "cogs/" as SimpleSlug,
+        showTags: false,
       }
     )),
   ],
@@ -40,11 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer(
       {
         title: "tags",
-        filterFn: (node) => {
-          // set containing names of everything you want to filter out
-          const omit = new Set(["cogs"])
-          return !omit.has(node.name.toLowerCase())
-        },
+        filterFn: () => true,
       }
     )),
     */
@@ -53,6 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
       {
         title: "recent",
         linkToMore: "cogs/" as SimpleSlug,
+        showTags: false,
       }
     )),
     Component.DesktopOnly(Component.Backlinks()),
@@ -70,6 +68,7 @@ export const defaultListPageLayout: PageLayout = {
       {
         title: "recent",
         linkToMore: "cogs/" as SimpleSlug,
+        showTags: false,
 
       }
     )),
@@ -79,6 +78,7 @@ export const defaultListPageLayout: PageLayout = {
       {
         title: "recent",
         linkToMore: "cogs/" as SimpleSlug,
+        showTags: false,
       }
     )),
   ],
