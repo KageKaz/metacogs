@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "email alerts": "https://follow.it/metacogs?leanpub",
       "RSS": "https://metacogs.pages.dev/index.xml",
       github:"https://github.com/KageKaz/metacogs"
     },
