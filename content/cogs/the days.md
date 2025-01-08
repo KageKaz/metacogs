@@ -1,6 +1,8 @@
 ---
 date: 2025-01-05
 draft: false
+tags:
+  - poems
 ---
 "you realize they don't go on forever, right?"[^1]
 

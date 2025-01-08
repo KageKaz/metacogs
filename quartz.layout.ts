@@ -42,7 +42,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer(
       {
         title: "tags",
-        filterFn: () => true,
       }
     )),
     */
