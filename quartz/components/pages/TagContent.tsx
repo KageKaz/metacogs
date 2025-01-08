@@ -44,11 +44,23 @@ export default ((opts?: Partial<TagContentOptions>) => {
         ...new Set(
           allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
         ),
-      ].sort((a, b) => a.localeCompare(b))
+      ]
+      
       const tagItemMap: Map<string, QuartzPluginData[]> = new Map()
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
+    
+      tags.sort((a, b) => {
+        const countA = tagItemMap.get(a)?.length || 0
+        const countB = tagItemMap.get(b)?.length || 0
+    
+        // Sort by count descending, and tiebreak lexicographically
+        if (countA !== countB) {
+          return countB - countA
+        }
+        return a.localeCompare(b)
+      })
       return (
         <div class="popover-hint">
           <article class={classes}>
