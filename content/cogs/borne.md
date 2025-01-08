@@ -29,6 +29,6 @@ And the hedonistic nihilism crouching at your door.
 
 These past few days I've really been enjoying writing for this blog.
 
-I hope I will still remember what it's like to have nothing to write for.
+I hope I will still remember what it was like to have nothing to write for.
 
 [^1]: In case you were wondering, I use [Readwise](https://readwise.io/)/[Reader](https://readwise.io/read) for this
