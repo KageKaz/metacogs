@@ -29,7 +29,7 @@ export default ((opts: Options) => {
     // check if comments should be displayed according to frontmatter
     const disableComment: boolean =
       //only have comments on posts
-      !fileData.slug?.startsWith("posts/") ||
+      !fileData.slug?.startsWith("cogs/") ||
       typeof fileData.frontmatter?.comments !== "undefined" &&
       (!fileData.frontmatter?.comments || fileData.frontmatter?.comments === "false")
     if (disableComment) {
