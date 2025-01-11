@@ -7,7 +7,21 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'kagekaz/metacogs',
+        // from data-repo-id
+        repoId: 'R_kgDONlQ-eA',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDONlQ-eM4Cl7KA',
+      }
+    }),
+  ],
   footer: Component.Footer({
     links: {
       "email alerts": "https://follow.it/metacogs?leanpub",
