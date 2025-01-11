@@ -20,7 +20,8 @@ export const sharedPageComponents: SharedLayout = {
         // from data-category-id
         categoryId: 'DIC_kwDONlQ-eM4Cl7KA',
 
-        mapping: "url"
+        mapping: "url",
+        inputPosition: "top",
       }
     }),
   ],
